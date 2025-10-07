@@ -1,0 +1,44 @@
+{
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "dd7406fd-d9e8-4685-a1a8-81c14d472eed",
+        "name": "Supabase",
+        "designId": "0c232f1e-a592-4e75-8eb1-78e2d8360a93",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imljc2xtaG1manVpZnBqdGh1b3VjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk0ODkxNzksImV4cCI6MjA3NTA2NTE3OX0.YVrJHNoPbYvzR6tW0F8RozdRDVdbQ7MnHmxyx8qwkCc",
+            "projectUrl": "https://icslmhmfjuifpjthuouc.supabase.co",
+            "realtimeTables": {
+                "caixa": true,
+                "vendas": true,
+                "clientes": true,
+                "produtos": true,
+                "usuarios": true,
+                "financeiro": true
+            }
+        }
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "17f67fe4-5685-4409-8eef-9579097d37cf",
+        "name": "REST API",
+        "designId": "0c232f1e-a592-4e75-8eb1-78e2d8360a93",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "d624d283-e706-4d59-98e1-a954f4adbdad",
+        "name": "Date",
+        "designId": "0c232f1e-a592-4e75-8eb1-78e2d8360a93",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "80921cc2-c25d-47a1-947d-ccfe30c9a807",
+        "name": "Supabase Auth",
+        "designId": "0c232f1e-a592-4e75-8eb1-78e2d8360a93",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imljc2xtaG1manVpZnBqdGh1b3VjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk0ODkxNzksImV4cCI6MjA3NTA2NTE3OX0.YVrJHNoPbYvzR6tW0F8RozdRDVdbQ7MnHmxyx8qwkCc",
+            "projectUrl": "https://icslmhmfjuifpjthuouc.supabase.co"
+        }
+    }
+}
